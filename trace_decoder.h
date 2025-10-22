@@ -11,7 +11,7 @@
 
 #include <stdint.h>
 
-// Parse N-Trace file(.rtd file) for SYNC messages, returns 0 on success
+// Parse N-Trace file (.rtd file) for SYNC messages, returns 0 on success
 int parse_function(const char *filename);
 
 #endif 
